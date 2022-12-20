@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Lâm",
+      "username": "NGO ANH LAM",
+      "email": "abc@gmail.com",
+      "img": "",
+      "phone": "0968596852",
+      "id": 2
+    },
+    {
+      "name": "ahihi",
+      "username": "AHIHI",
+      "email": "ahihi@gmail.com",
+      "img": "",
+      "phone": "0956526745",
+      "id": 3
+    }
+  ],
+  "products": [],
+  "login": [
+    {
+      "email": "Ngoanhlam@gmail.com",
+      "password": "abc@123",
+      "apiId": "auth",
+      "id": 1
+    }
+  ],
+  "register": [
+    {
+      "name": "Ngo Anh Lam",
+      "email": "lam@gmail.com",
+      "password": "abc@12345",
+      "apiId": "auth",
+      "id": 1
+    },
+    {
+      "name": "hihi",
+      "email": "ahihi@gmail.com",
+      "password": "acbs@1234",
+      "apiId": "auth",
+      "id": 2
+    },
+    {
+      "name": "Ngo Anh Lam",
+      "email": "lam@gmail.com",
+      "password": "abc@12345",
+      "apiId": "auth",
+      "id": 3
+    }
+  ]
+}
